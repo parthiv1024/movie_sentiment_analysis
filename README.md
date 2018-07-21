@@ -5,6 +5,7 @@ This neural network reads in a dataset of IMDB reviews ranked on a scale on how 
 <p>
 <img align="center" src="movie_sentiment_analysis_results.png" alt="Movie Sentiment Analysis Results"/>
 </p>
+
 Link - [Results](https://www.floydhub.com/parthiv1024/projects/movie_sentiment_analysis/2)  
 ## Dependencies
 Tflearn - Use this [guide](http://tflearn.org/installation/) to install tflearn
